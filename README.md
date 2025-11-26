@@ -18,11 +18,11 @@ I am a results-driven Software Architect and Web Development Expert with over 20
   - Cloud-based supply chain and inventory management SaaS.
   - Drove major architecture decisions for real-time visibility and lean operations.
 
-- **LoyOne Customer Loyalty System**
+- **LoyOne Customer Loyalty System** ([LoyOne](https://e-motionagency.com/en/Products-LoyOne/))
   - Advanced promotional loyalty engine for multi-brand operations.
   - Designed RESTful backend, POS integrations, and real-time push systems.
 
-- **e-motion CMS**
+- **e-motion CMS** ([eCMS](https://e-motionagency.com/en/Products-eCMS/))
   - Enterprise-grade content management with eCommerce and A/B testing.
   - Oversaw end-to-end architecture, coaching, and implementation.
 
